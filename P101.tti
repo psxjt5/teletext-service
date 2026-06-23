@@ -1,11 +1,10 @@
-PN,10100
-SC,0000
+PN,10201
+SC,0001
+PS,8008
 
-OL,1,ABOUT THIS SERVICE
-OL,3,This is a simple example
-OL,4,teletext service for VBIT2.
-OL,6,Pages are stored as .tti files.
-OL,8,The repository can be cloned
-OL,9,directly by vbit-config.
+OL,1,MY TELETEXT SERVICE
+OL,6,WELCOME TO MY VBIT2 SERVICE
+OL,7,PAGE 101 ABOUT
+OL,8,PAGE 102 NEWS
 
-FL,100,102,103,100,100,100
+FL,101,102,103,100,8ff,100
